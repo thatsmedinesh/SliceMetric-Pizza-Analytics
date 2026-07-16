@@ -1,6 +1,7 @@
 # SliceMetric — Pizza Chain Analytics
 
-![Landing Page](Screenshots/1_Home.png)
+<img width="1285" height="732" alt="1_Home" src="https://github.com/user-attachments/assets/a215f815-0708-40a6-9d5f-d0bbde905f45" />
+
 
 > A 7-page interactive Power BI dashboard for a pizza chain —  SliceMetric  — built on a custom PowerPoint-designed background with a bold Crimson Slice theme. Covers 5,000 orders across 5 Austin (TX) branches and 17 products from January to May 2025.
 
