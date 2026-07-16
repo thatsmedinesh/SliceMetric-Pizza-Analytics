@@ -32,25 +32,44 @@ Key business questions answered:
 ## Dashboard Pages
 
 ### Page 1 — Landing / Navigation
-![Landing Page](Screenshots/1_Home.png)
+
+<img width="1285" height="732" alt="1_Home" src="https://github.com/user-attachments/assets/0979fcf2-d2c2-4de6-bfb2-173044c8063d" />
+
 
 ### Page 2 — Executive Overview
-![Executive Overview](Screenshots/2_Executive_Overview.png)
+
+
+<img width="1277" height="722" alt="2_Executive_Overview" src="https://github.com/user-attachments/assets/bed04299-4b1a-4b2b-9c0f-7d4ad06242ee" />
+
 
 ### Page 3 — Product Performance
-![Product Performance](Screenshots/3_Product_Performance.png)
+
+
+<img width="1290" height="725" alt="3_Product_Performance" src="https://github.com/user-attachments/assets/fdd8ccb4-21b4-437c-88fe-8f9152bc8ad5" />
+
 
 ### Page 4 — Customer Behaviour
-![Customer Behaviour](Screenshots/4_Customer_Behaviour.png)
+
+<img width="1291" height="727" alt="4_Customer_Behaviour" src="https://github.com/user-attachments/assets/a7090cca-7d7d-4370-aafb-c4322a0d3e78" />
+
 
 ### Page 5 — Branch Performance
-![Branch Performance](Screenshots/5_Branch_Performance.png)
+
+<img width="1282" height="722" alt="5_Branch_Performance" src="https://github.com/user-attachments/assets/5d0c6b1b-32d9-4eb4-9534-6e441e0cefb8" />
+
+
 
 ### Page 6 — Time Analysis
-![Time Analysis](Screenshots/6_Time_Analysis.png)
+
+
+<img width="1285" height="732" alt="6_Time_Analysis" src="https://github.com/user-attachments/assets/7832608e-7d14-4601-a8db-f7438ff920b7" />
+
 
 ### Page 7 — Quick Analysis
-![Quick Analysis](Screenshots/7_Quick_Analysis.png)
+
+
+<img width="1287" height="727" alt="7_Quick_Analysis" src="https://github.com/user-attachments/assets/6c201af3-7601-4bd5-a385-6ca65a2a0e12" />
+
 
 ---
 
